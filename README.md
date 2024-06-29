@@ -1,8 +1,10 @@
-Sure, here's a short and crisp README file for your Slider component:
 
 ---
 
 ## Slider Component
+
+### Live Demo
+Demo Link : https://custom-slider-khushi.netlify.app
 
 ### Description
 The Slider component is designed for a questionnaire where users respond to questions using a slider input. Each question is categorized into one of four types: IDEALISTIC, DISILLUSIONED, CYNICAL, and HOPEFUL. Based on user responses, the progress bars at the top update dynamically to reflect the count of responses in each category.
